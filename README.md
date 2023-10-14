@@ -1,2 +1,2 @@
-# hdbravura_amb
-Herdade da Bravura / Oxalá - Repository for the Environment Circle
+# Aldeia da Bravura - Circulo do Ambiente
+Repository for the Environment Circle
